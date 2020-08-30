@@ -55,4 +55,4 @@ If you have any idea on how to make the code more efficiant please tell me about
 
 Authored and maintained by notmaxi.
 
-> GitHub [@notmaxi](https://github.com/notmaxi)
+> GitHub [@ArdaBoran](https://github.com/ArdaBoran)
